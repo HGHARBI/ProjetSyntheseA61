@@ -1,0 +1,8 @@
+{
+ INPUT_DIR : "/kaggle/input/alzheimers-dataset-4-class-of-images/Alzheimer_s Dataset/"
+ BASE_DIR = "./"
+ BASE_TRAIN_DIR = "train/"
+ BASE_TEST_DIR  = "test/"
+ COPY_DIR  = "copy_dataset/" 
+ PRE_PRO_DIR = "pre_pro_dataset/" 
+}
